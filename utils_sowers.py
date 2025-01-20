@@ -48,10 +48,10 @@ dogs_per_day: list = [10, 11, 9, 12, 7]
 
 # Calculate basic statistics using built-in Python functions and the statistics module
 # TODO: Replace these variable names with the variable name of your own numeric list
-min_score: float = min(client_satisfaction_scores)  
-max_score: float = max(client_satisfaction_scores)  
-mean_score: float = statistics.mean(client_satisfaction_scores)  
-stdev_score: float = statistics.stdev(client_satisfaction_scores)
+min_dogs: float = min(dogs_per_day)  
+max_dogs: float = max(dogs_per_day)  
+mean_dogs: float = statistics.mean(dogs_per_day)  
+stdev_dogs: float = statistics.stdev(dogs_per_day)
 
 # Use a Python formatted string (f-string) to show information
 # TODO: Modify the text in the byline to fit your information
