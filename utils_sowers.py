@@ -1,16 +1,22 @@
 """
-Module: utils_sowers
+Module: utils_sabriya
 
 Purpose: Reusable Module for My Analytics Projects
 
-Description: This module provides a byline for my analytics projects. 
-When we work hard to write useful code, we want it to be reusable.
-A good byline could be used in every Python analytics project we do.
+Description: This module provides essential tools for analyzing and presenting data 
+related to a doggy daycare. It demonstrates skills in data manipulation, 
+statistical analysis, and creating formatted outputs using f-strings. 
+With reusable functions and clear documentation, this module supports 
+efficient and scalable analytics projects.
 
 Author: Sabriya Sowers
+Date: January 19, 2025
 
-TODO: Change the module name in this opening docstring
-TODO: Change the author in this opening docstring
+Key Features: 
+- Computes and displays basic statistics for data.
+- Produces clear, formatted outputs.
+- Includes reusable tools for analytics projects.
+
 """
 
 #####################################
