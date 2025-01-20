@@ -60,14 +60,14 @@ byline: str = f"""
 ---------------------------------------------------------
 Stellar Analytics: Delivering Professional Insights
 ---------------------------------------------------------
-Has International Clients:  {has_international_clients}
-Years in Operation:         {years_in_operation}
-Skills Offered:             {skills_offered}
-Client Satisfaction Scores: {client_satisfaction_scores}
-Minimum Satisfaction Score: {min_score}
-Maximum Satisfaction Score: {max_score}
-Mean Satisfaction Score: {mean_score:.2f}
-Standard Deviation of Satisfaction Scores: {stdev_score:.2f}
+Has Overnight Boarding:              {has_overnight_boarding}
+Number of Employees:                 {number_of_employees}
+Services Offered:                    {services_offered}
+Dogs Per Day:                        {dogs_per_day}
+Minimum Dogs Per Day:                {min_dogs}
+Maximum Dogs Per Day:                {max_dogs}
+Mean Dogs Per Day:                   {mean_dogs:.2f}
+Standard Deviation of Dogs Per Day:  {stdev_dogs:.2f}
 """
 
 #####################################
